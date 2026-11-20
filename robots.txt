@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://herrhanch33.github.io/steve-tests-ai/sitemap.xml
